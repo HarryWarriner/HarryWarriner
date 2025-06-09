@@ -1,5 +1,6 @@
-# 💫 About Me:
-Currently learning something new.<br>Studying Design Engineering at Imperial College London
+# 🐙 About Me:
+Always testing my abilities and trying to learn more<br>
+Studying Design Engineering at Imperial College London
 
 
 ## 🌐 Socials:
